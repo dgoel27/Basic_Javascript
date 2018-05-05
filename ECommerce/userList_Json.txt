@@ -1,0 +1,43 @@
+{
+	"userList": [{
+		"userID": "001",
+		"userPassword": "UserPassword",
+		"userName": "Akash",
+		"userAddress": "11-B, ABC Colony, New Delhi - 110011",
+		"userDOB": "07 - AUG - 1987",
+		"sex": "Male",
+		"userPhone": "9999998888",
+		"shippingAddress": "11-B, ABC Colony, New Delhi - 110011",
+		"emailId": "Akash0708@email.com",
+		"walletAmount": 250,
+		"primeMembership": false,
+		"modeOfPayment": "CashOnDelivery",
+		"cartItems": [{
+			"itemID": "001",
+			"itemName": "Redmi 4 (Black, 16 GB)",
+			"itemPrice": "INR 6999",
+			"itemQuantity": 1,
+			"itemSize": "16 GB",
+			"itemColor": "Black",
+			"orderDate": "12 - FEB - 2018",
+			"billingAddress": "11-B, ABC Colony, New Delhi - 110011"
+		}, {
+			"itemID": "003",
+			"itemName": "Laptop Table",
+			"itemPrice": "INR 1999",
+			"itemQuantity": 1,
+			"itemSize": "21 X 12 X 8 inches",
+			"itemColor": "Blue",
+			"orderDate": "12 - FEB - 2018",
+			"billingAddress": "11-B, ABC Colony, New Delhi - 110011"
+		}],
+		"wishList": [{
+			"itemID": "007",
+			"itemName": "Reebok shoes",
+			"itemPrice": "INR 14999",
+			"itemQuantity": 1,
+			"itemSize": "40 UK",
+			"itemColor": "White"
+		}]
+	}]
+}

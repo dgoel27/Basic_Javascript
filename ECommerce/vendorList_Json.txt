@@ -1,0 +1,15 @@
+{
+  "vendorList": [{
+    "vendorID": "001",
+    "vendorName": "Akash",
+    "vendorAddress": "11-B, ABC Colony, New Delhi - 110011",
+    "vendorPhone": "9999998888",
+    "vendorEmail": "Akash0708@email.com"
+  },{
+    "vendorID": "002",
+    "vendorName": "Prakash",
+    "vendorAddress": "14-K, ABC Nagar, New Delhi - 110012",
+    "vendorPhone": "9999998887",
+    "vendorEmail": "Prakash0809@email.com"
+  }]
+}

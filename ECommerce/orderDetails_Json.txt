@@ -1,0 +1,25 @@
+{
+  "orderDetails": [{
+    "orderNumber": "001",
+    "orderDate": "07-JAN-2018",
+    "orderQuantity": 1,
+    "orderPrice": "INR 6999",
+    "amountBeforeTax": 6999,
+    "taxApplied": 200,
+    "shippingCharge": 100,
+    "finalAmount": 7299,
+    "itemID": "001",
+    "userID": "001"
+  },{
+    "orderNumber": "002",
+    "orderDate": "17-JAN-2018",
+    "orderQuantity": 1,
+    "orderPrice": "INR 8999",
+    "amountBeforeTax": 6999,
+    "taxApplied": 200,
+    "shippingCharge": 50,
+    "finalAmount": 9249,
+    "itemID": "005",
+    "userID": "003"
+  }]
+}

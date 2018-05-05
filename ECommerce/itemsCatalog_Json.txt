@@ -1,0 +1,56 @@
+{
+  "itemsCatalog": [{
+    "itemID": "001",
+    "itemName": "Redmi 4 (Black, 16 GB)",
+    "itemDescription": "13MP primary camera with 5-elements lens, f/2.2   aperture, PDAF, high dynamic range (HDR), panaroma, 1080p full HD video recording and 5MP front facing camera, 12.7 centimeters (5-inch) display with 1280 x 720 pixels resolution and 293 ppi pixel density, Android v6.0.1 Marshmallow operating system with up to 1.4GHz Qualcomm Snapdragon 435 octa core processor with Adreno 505 GPU, 2GB RAM, 16GB internal memory expandable up to 128GB and dual SIM (micro+nano) dual-standby (4G+4G), 4100mAH lithium-ion battery providing talk-time of 36 hours and standby time of 432 hours, 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase",
+    "itemCurrency": ["INR","USD","EUR","GBP","CNY","AUD"],
+    "itemPrice": 6999,
+    "itemColor": ["Black","White","Grey","Golden"],
+    "itemSize": ["16 GB","32 GB","64 GB"],
+    "itemDimensions": "13.9 x 0.9 x 7 cm",
+    "itemWeight": "150 g",
+    "itemQuantity": 25,
+    "itemBarcode": "1113800020",
+    "itemWarranty": "1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase",
+    "itemExpiryDate": null,
+    "itemImage": ["https://www.google.co.in/search?q=Redmi+4+(Black,+16+GB)&safe=strict&dcr=0&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjqtI7D0LbZAhXFl5QKHTl7CoUQ_AUICygC&biw=1600&bih=750#imgrc=ecGYMAGDh3RmBM:",
+"https://www.google.co.in/search?q=Redmi+4+(Black,+16+GB)&safe=strict&dcr=0&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjqtI7D0LbZAhXFl5QKHTl7CoUQ_AUICygC&biw=1600&bih=750#imgrc=QBG3LqGmy02c1M:"],
+    "stockAvailability": true,
+    "discountOffer": 1000,
+    "itemCategory": "Mobiles",
+    "gender": "Unisex",
+    "itemVendor": [{
+      "vendorID": "001",
+      "vendorName": "ABC Electronics",
+      "vendorCity": "Delhi"
+    },{
+      "vendorID": "002",
+      "vendorName": "XYZ Mobile World",
+      "vendorCity": "Mumbai"
+    }]
+  }, {
+    "itemID": "002",
+    "itemName": "",
+    "itemDescription": "",
+    "itemCurrency": [],
+    "itemPrice": 7999,
+    "itemColor": ["Black","White","Blue","Green"],
+    "itemSize": ["S","M","L"],
+    "itemDimensions": "13.9 x 0.9 x 7 cm",
+    "itemWeight": "150 g",
+    "itemQuantity": 50,
+    "itemBarcode": "1113900021",
+    "itemWarranty": "",
+    "itemExpiryDate": "2020-06-19",
+    "itemImage": [],
+    "stockAvailability": true,
+    "discountOffer": 1250,
+    "itemCategory": "Apparel",
+    "gender": "Unisex",
+    "itemVendor": [{
+      "vendorID": "003",
+      "vendorName": "Fashion World",
+      "vendorCity": "Delhi"
+    }]
+  }]
+}
